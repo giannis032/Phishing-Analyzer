@@ -116,4 +116,11 @@ streamlit run frontend.py
 
 ```
 ---
+## 🗺️ Future Enhancements
 
+- [ ] **Containerization** via Docker & Docker Compose.
+- [ ] **Email Header Verification:** Parsing raw `.eml` files for SPF, DKIM, and DMARC.
+- [ ] **QR Code Phishing (Quishing) Scanner** with automated URL extraction.
+- [ ] **Scan History Logging** via SQLite database.
+
+---
